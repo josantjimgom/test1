@@ -1,6 +1,2 @@
 # test1
-Repositorio de pruebas 
-
-Este repositorio es de prueba
-Este texto tambien
-que huevos dice el jefe!
+This is a sample repo, hello world!
